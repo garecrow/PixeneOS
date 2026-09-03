@@ -1,0 +1,7 @@
+{
+  "version": 2,
+  "full": {
+    "location_ota": "https://github.com/pixincreate/PixeneOS/releases/download/2026081300/blazer-2026081300-rootless-7ca2fac.zip",
+    "location_csig": "https://github.com/pixincreate/PixeneOS/releases/download/2026081300/blazer-2026081300-rootless-7ca2fac.zip.csig"
+  }
+}
